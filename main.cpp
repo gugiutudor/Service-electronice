@@ -1,11 +1,11 @@
 #include <iostream>
 #include <vector>
 
-#include "Dispozitiv.h"
-#include "Smartphone.h"
-#include "PC.h"
-#include "Client.h"
-#include "Service.h"
+#include "dispozitiv.h"
+#include "smartphone.h"
+#include "pc.h"
+#include "client.h"
+#include "service.h"
 
 int main()
 {
